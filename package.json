@@ -1,0 +1,16 @@
+{
+  "name": "fis-preprocessor-js-hash",
+  "version": "0.0.1",
+  "description": "fis-preprocessor-js-hash",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ksky521/fis-preprocessor-js-hash.git"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "author": "三水清",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
